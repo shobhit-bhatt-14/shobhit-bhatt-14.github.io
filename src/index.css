@@ -271,6 +271,13 @@ section#home p:nth-child(2) {
   height: 3em !important;
 }
 
+@media (min-width: 1200px) {
+  #card-view {
+    width: 130%;
+    margin-left: -10%;
+  }
+}
+
 /* ------------ Work ----------------- */
 #project-img>img:hover {
   opacity: 1 !important;
@@ -300,6 +307,7 @@ section#home p:nth-child(2) {
 }
 
 @media (min-width: 1200px) {
+
   #project-img>img {
     height: 300px;
     width: 400px;
