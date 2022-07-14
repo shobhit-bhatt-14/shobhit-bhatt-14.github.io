@@ -271,7 +271,7 @@ section#home p:nth-child(2) {
   height: 3em !important;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1200px) and (max-width: 1650px) {
   #card-view {
     width: 130%;
     margin-left: -10%;
