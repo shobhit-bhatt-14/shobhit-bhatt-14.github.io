@@ -70,7 +70,7 @@ const Navbar = () => {
             </ul>
             <a
               target="_blank"
-              href="https://drive.google.com/file/d/1wowSPWjuSiN8v8xsHvprzAZHI9MF_TJo/view?usp=sharing"
+              href="https://drive.google.com/file/d/1FIwILCk-spDUW_lVkwFWxnaP2QG72Pzq/view?usp=sharing"
               className="btn btn-outline-info mx-lg-3"
               rel="noreferrer"
             >
