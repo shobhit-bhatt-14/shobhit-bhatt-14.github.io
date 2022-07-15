@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.efd14b27.css",
-    "main.js": "/static/js/main.10bc7cca.js",
+    "main.js": "/static/js/main.dd8c0a47.js",
     "static/js/787.8573cddb.chunk.js": "/static/js/787.8573cddb.chunk.js",
     "static/media/neuromatter.png": "/static/media/neuromatter.a303ebaf152f4514f1ab.png",
     "static/media/digifarm.png": "/static/media/digifarm.dbfb7a1782976f3e14b0.png",
@@ -10,11 +10,11 @@
     "static/media/shobhit.jpg": "/static/media/shobhit.1bba7bf61d7bf7a86be9.jpg",
     "index.html": "/index.html",
     "main.efd14b27.css.map": "/static/css/main.efd14b27.css.map",
-    "main.10bc7cca.js.map": "/static/js/main.10bc7cca.js.map",
+    "main.dd8c0a47.js.map": "/static/js/main.dd8c0a47.js.map",
     "787.8573cddb.chunk.js.map": "/static/js/787.8573cddb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efd14b27.css",
-    "static/js/main.10bc7cca.js"
+    "static/js/main.dd8c0a47.js"
   ]
 }
