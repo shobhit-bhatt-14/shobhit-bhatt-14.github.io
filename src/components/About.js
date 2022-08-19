@@ -12,8 +12,7 @@ const About = () => {
         <div className="d-flex flex-column flex-md-row align-items-center justify-content-evenly">
           <p className="text-white lh-1 pe-md-3 pe-xl-5 me-xl-5 w-md-50 text-justify">
             Hello! My name is Shobhit Bhatt and I enjoy creating things that
-            live on the internet. I am currently an undergrad student at Bipin
-            Tripathi Kumaon Institute of Technology with majors in Computer
+            live on the internet. I am a fresher Engineering graduate with majors in Computer
             Science and Engineering.
             <br />
             <br />
