@@ -16,7 +16,7 @@ const socialData = [
     icon: <GithubIcon />,
   },
   {
-    href: resumeData.contact.email,
+    href: `mailto:${resumeData.contact.email}`,
     label: "Email",
     icon: <MailIcon />,
   },
