@@ -46,7 +46,7 @@ export default function Header() {
   };
 
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 transition-all duration-300 backdrop-blur-xs">
+    <header className="fixed top-0 left-0 right-0 z-50 transition-all duration-300 backdrop-blur-lg">
       <nav className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
           <a href="#home" className="text-2xl font-bold hover:text-primary">
@@ -63,11 +63,7 @@ export default function Header() {
         </div>
       </nav>
       {/* Mobile Menu */}
-      <div
-        className={`md:hidden ${
-          isOpen ? "block" : "hidden"
-        } backdrop-blur-sm absolute top-20 left-0 right-0`}
-      >
+      <div className={`md:hidden ${isOpen ? "block" : "hidden"}`}>
         <div className="flex flex-col items-center space-y-4 py-8">
           {navLinks.map((link) => renderNavLink(link, true))}
         </div>
