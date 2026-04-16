@@ -31,7 +31,7 @@ export default function ProfileLinks() {
           href={href}
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="LinkedIn"
+          aria-label={label}
           className="hover:text-primary transition-transform duration-300 hover:scale-110"
         >
           {icon}

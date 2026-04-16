@@ -1,5 +1,7 @@
 import type { ResumeData } from "../types";
 
+export const siteUrl = "https://shobhit-bhatt-14.github.io";
+
 export const resumeData: ResumeData = {
   name: "Shobhit Bhatt",
   title: "Full-Stack Software Developer",
