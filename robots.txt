@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://shobhit-bhatt-14.github.io/sitemap.xml
